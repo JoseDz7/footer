@@ -20,7 +20,7 @@
 
 # pie de página :
 
-!Image text](https://github.com/piratainformatico2/footer/blob/main/css/Screenshot_20211103-204728.png)
+![Image text](https://github.com/piratainformatico2/footer/blob/main/css/Screenshot_20211103-204728.png)
 
 
 
