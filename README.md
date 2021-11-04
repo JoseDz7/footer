@@ -11,8 +11,6 @@
 
 - Hola Que tal soy José Díaz,Mi objetivo es ser reconocido en la comunidad de la programación ⚡
 
-- Este repositorio lo hice con mucho mucho cariño, para todos ustedes que son de termux una terminal de Linux para Android 🎮
-
 - Si deseas contactarme >>> +52 2283821202 (MX) 🇲🇽
 
 - Si deseas apoyarme con una estrella en mis repositorios
@@ -20,7 +18,7 @@
 </details>
 </br>
 
-# Inicio :
+# Pie de página :
 
 
 
